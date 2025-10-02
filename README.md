@@ -1,4 +1,6 @@
-[![License](https://img.shields.io/badge[![Issues](https://img.shields.io/github/issues/snegamer/rpc(https://github.com/snegamer/rpc-latency-checker/issueshttps://img.shields.io/github/stars/snegamer/rpc(https://github.com/snegamer/rpc-latency-checker/starg[3][4]
+[![License](https://img.shields.io/badge/license-MIT-green.svg)](./LICENSE)
+[![Issues](https://img.shields.io/github/issues/snegamer/rpc-latency-checker.svg)](https://github.com/snegamer/rpc-latency-checker/issues)
+[![Stars](https://img.shields.io/github/stars/snegamer/rpc-latency-checker.svg)](https://github.com/snegamer/rpc-latency-checker/stargazers)
 # RPC Latency Checker
 Measure latency of multiple EVM RPC endpoints (multiple attempts), print a table and JSON.
 
